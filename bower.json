@@ -1,0 +1,10 @@
+{
+  "name": "simpled3",
+  "private": true,
+  "dependencies": {
+    "foundation": "5.3.0",
+    "moment": "2.6.0",
+    "gridster": "~0.5.1"
+  },
+  "devDependencies": {}
+}
